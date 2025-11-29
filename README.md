@@ -20,13 +20,9 @@ This project is a **demo application** that replicates the core user interface o
 ## Screenshots
 
 <p align="center">
-  <img src="screenshot_of_ui/splash.png" alt="Splash Screen" width="250"/>
-  <img src="screenshot_of_ui/home.png" alt="Home Screen" width="250"/>
-  <img src="screenshot_of_ui/chat.png" alt="Chat Screen" width="250"/>
-</p>
-
-<p align="center">
-  <img src="screenshot_of_ui/settings.png" alt="Settings Screen" width="250"/>
+  <img src="screenshot_of_ui/home_screen.png" alt="Home Screen - Chats List" width="250"/>
+  <img src="screenshot_of_ui/message_screen.png" alt="Message Screen - Chat View" width="250"/>
+  <img src="screenshot_of_ui/settings_screen.png" alt="Settings Screen" width="250"/>
 </p>
 
 ## Getting Started
