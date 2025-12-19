@@ -38,8 +38,8 @@ This project is a **demo application** that replicates the core user interface o
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/whatsapp_clone.git
-    cd whatsapp_clone
+    git clone https://github.com/newbie-saimur/basic-whatsapp-ui-demo.git
+    cd basic-whatsapp-ui-demo
     ```
 
 2. Install dependencies:

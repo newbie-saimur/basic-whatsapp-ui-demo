@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:whatsapp_clone/views/home_view.dart';
 import 'package:whatsapp_clone/views/splash.dart';
 
 void main() {
